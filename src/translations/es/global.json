@@ -1,0 +1,36 @@
+{
+    "aboutpage":{
+        "1":"Tecnicatura Universitaria en Inteligencia Artificial-Cursando 1°año",
+        "2":"Profesor Universitario en Psicologia-Finalizado,2018",
+        "3":"Posgrado Internacional Inteligencia Artificial y Derecho. Facultad de Derecho,Buenos Aires-Cursando,2021",
+        "4":"Argentina programa 1°parte-Finalizado,2021",
+        "5":"Argentina programa 2°parte-Finalizado,2022",
+        "6":"Yo quiero programar,TECH-Cursando,2022"
+       },
+    "main":{
+        "1":"Hola,",
+        "2":"soy Ezequiel.",
+        "3":"Desarrollador de Blockchain e Inteligencia Artificial",
+        "4":"Work",
+        "5":"Educación",
+        "6":"Habilidades",
+        "7":"Blog",
+        "8":"Mail"
+       },
+       "skill":{
+           "1":"Blockchain",
+           "2":"BLOCKCHAIN WEBSITE-MOBILE",
+           "3":"Html, Css, Js, React, React Native, Redux, Bootstrap, Node js, web3.js, ethers.js etc.",
+           "4":"Contratos inteligentes",
+           "5":"Solidity, Vyper and Python.",
+           "6":"infraestructura de Blockchain",
+           "8":"Rust.",
+           "10":"Inteligencia Artificial",
+           "11":"Lenguajes de programación",
+           "12":"Python, Rust, Hadoop, MongoDB and Cassandra.",
+           "13":"Algoritmos y frameworks",
+           "14":"Regression, KNN, Caffe, PyTorch, Theano, TensorFlow.",
+           "15":"Habilidades Matemáticas",
+           "16":"Linear Álgebra, probabilidad y estadísticas."
+          }
+   }
