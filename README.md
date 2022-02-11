@@ -1,4 +1,4 @@
-# Build a Stunning Portfolio with React JS using Styled-Components and framer-motion for awesome Animations
+# Build a Portfolio with React JS using Styled-Components and framer-motion
 
-This repository contains Final code for The Portfolio Website in ReactJS. <br />
+This repository contains Final code for The Portfolio Website in ReactJS.
 
