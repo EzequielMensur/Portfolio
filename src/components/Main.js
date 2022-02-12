@@ -186,7 +186,7 @@ z-index:1;
 @media only screen and (max-width: 768px){
     color: ${props => props.theme.text};
     position: absolute;
-    bottom: 2%;
+    bottom: 2rem;
     left: 17%;
 
 }
@@ -197,7 +197,7 @@ text-decoration: none;
 z-index:1;
 @media only screen and (max-width: 768px){
     position: absolute;
-    bottom: 2%;
+    bottom: 2rem;
     right: 10%;
 }
 
@@ -333,7 +333,6 @@ justify-content: space-evenly;
     font-size: 1em;
     height: auto;
     width: 100%;
-}
 }
 `
 
