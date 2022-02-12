@@ -301,7 +301,7 @@ display: flex;
     position: absolute;
     bottom: 0;
     left: 50%;
-    transform: translate(-50%,0%);
+    transform: translate(-50%,10%);
     width: 100%;
     height: auto;
     @media only screen and (max-width: 768px){
