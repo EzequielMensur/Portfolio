@@ -64,7 +64,6 @@ const WorkPage = () => {
     const yinyang = useRef(null);
 
 
-
     useEffect(() => {
         let element = ref.current;
        
@@ -96,7 +95,7 @@ const WorkPage = () => {
 
      <Main ref={ref}   variants={container} initial='hidden' animate='show'  >
          {
-            Work.map( d => 
+            Work.map(d => 
             <Card key={d.id} data={d} />
             )
          }

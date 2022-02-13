@@ -3,69 +3,11 @@
 export const Blogs = [
    { 
         id:1,
-        name:"Build Website with ReactJS, Styled-components and GSAP for Scrolling Animations",
-        tags:["react","gsap","styled-components"],
+        name:"It will be online soon",
+        tags:["react",],
         date:"13 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--sBeV06Xc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2yrzy75q4dzibqz6rf82.png",
-        link:"https://dev.to/codebucks/build-website-with-reactjs-styled-components-and-gsap-for-scrolling-animations-2f10"
+        imgSrc:"data:image/jpeg;base64,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",
+        link:""
     },
-    {
-        id:2,
-        name:"How to create React Hamburger Menu using Styled-Components",
-        tags:["react","styled-components"],
-        date:"5 July, 2021",
-        imgSrc:"https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625479747640%2F7KzwP9nmj.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
-        link:"https://codebucks.hashnode.dev/react-hamburger-menu"
-    },
-    {
-        id:3,
-        name:"React Loading Screen: Try these 3 cool loading screens for your app",
-        tags:["react","react-lottie","styled-components"],
-        date:"6 July, 2021",
-        imgSrc:"https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625552344293%2Fegwis0UIX.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
-        link:"https://codebucks.hashnode.dev/react-loading-screens"
-    },
-    {
-        id:4,
-        name:"How to build a Fabulous Todo App using React, Redux and Framer-Motion",
-        tags:["react","redux","framer-motion"],
-        date:"26 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--r5oUDhhT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/036s7j5b73up7455rdth.png",
-        link:"https://dev.to/codebucks/build-redux-react-todo-list-app-with-animations-using-framer-motion-1mp1"
-    },
-    {
-        id:5,
-        name:"What is Higher Order Component (HOC) in React JS?",
-        tags:["react","reactJS","web-development"],
-        date:"3 Feb, 2021",
-        imgSrc:"https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625295480148%2FlyKj8bpHK.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
-        link:"https://codebucks.hashnode.dev/what-is-higher-order-component"
-    },
-    {
-        id:6,
-        name:"How to implement Pagination Component in React from scratch",
-        tags:["react","css"],
-        date:"5 Jan, 2021",
-        imgSrc:"https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625240050668%2FGAya9b0XK.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
-        link:"https://codebucks.hashnode.dev/pagination-in-react"
-
-    },
-   
-    {
-        id:7,
-        name:"What is Redux ? Simply Explained!",
-        tags:["react","redux","javascript"],
-        date:"16 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--ZY1EK-Eo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bcz1u90oq3prr5fga3fs.png",
-        link:"https://dev.to/codebucks/what-is-redux-simply-explained-2ch7"
-    },
-    {
-        id:8,
-        name:"How to create Sidebar navigation menu in ReactJS with react router and framer-motion",
-        tags:["react","framer-motion","styled-components"],
-        date:"26 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
-        link:"https://dev.to/codebucks/build-sidebar-navigation-menu-in-reactjs-with-react-router-and-framer-motion-for-cool-page-transition-effects-4bc3"
-   }, 
   
 ]

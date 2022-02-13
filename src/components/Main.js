@@ -186,7 +186,7 @@ z-index:1;
 @media only screen and (max-width: 768px){
     color: ${props => props.theme.text};
     position: absolute;
-    bottom: 2rem;
+    bottom: 6rem;
     left: 17%;
 
 }
@@ -197,7 +197,7 @@ text-decoration: none;
 z-index:1;
 @media only screen and (max-width: 768px){
     position: absolute;
-    bottom: 2rem;
+    bottom: 6rem;
     right: 10%;
 }
 
@@ -222,7 +222,7 @@ color:${props => props.theme.body};
 
 @media only screen and (max-width: 768px){
     position: absolute;
-    top:10em;
+    top:13em;
     right: 20%;
     
     font-size:1rem;
@@ -305,12 +305,14 @@ display: flex;
     width: 100%;
     height: auto;
     @media only screen and (max-width: 768px){
-        transform: translate(-50%,138%);
+        transform: translate(-50%,150%);
     }
     @media only screen and (max-width: 380px){
         transform: translate(-50%,145%);
     }
-    
+    @media only screen and (max-width: 308px){
+        transform: translate(-50%,160%) scale(0.9);
+    }
 }
 `
 const Text = styled.div`
