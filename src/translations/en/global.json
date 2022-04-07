@@ -10,7 +10,7 @@
     "main":{
         "1":"Hi,",
         "2":"i'm Ezequiel.",
-        "3":"Blockchain and artificial intelligence Developer ",
+        "3":"Blockchain and Full Stack Developer ",
         "4":"Work",
         "5":"Education",
         "6":"Skills",
@@ -18,19 +18,17 @@
         "8":"Say Hi.."
        },
        "skill":{
-           "1":"Blockchain Developer",
+           "1":"Blockchain",
            "2":"BLOCKCHAIN WEBSITE-MOBILE",
-           "3":"Html, Css, Js, React, React Native, Redux, Bootstrap, Node js, web3.js, ethers.js etc.",
-           "4":"SMART CONTRACT DEVELOPMENT",
+           "3":"web3.js, ethers.js etc.",
+           "4":"Contratos inteligentes",
            "5":"Solidity, Vyper and Python.",
-           "6":"BLOCKCHAIN INFRASTRUCTURE",
+           "6":"infraestructura de Blockchain",
            "8":"Rust.",
-           "10":"Artificial Intelligence",
-           "11":"PROGRAMMING SKILLS",
-           "12":"Python, Rust, Hadoop, MongoDB and Cassandra.",
-           "13":"ALGORITHMS AND FRAMEWORKS",
-           "14":"Regression, KNN, Caffe, PyTorch, Theano, TensorFlow.",
-           "15":"MATHEMATICAL SKILLS",
-           "16":"Linear Algebra, Probability, and Statistics."
+           "10":"Desarrollo Web",
+           "11":"Lenguajes de programación",
+           "12":"Html, Css, JavaScript, Python, ",
+           "13":"Algoritmos y frameworks",
+           "14":" React, React Native, Node js, Bootstrap"
           }
 }
