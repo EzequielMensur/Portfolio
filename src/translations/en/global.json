@@ -1,16 +1,15 @@
 {
  "aboutpage":{
-    "1":"Higher Technical University of artificial intelligence-First Year",
+    "1":"I want to be a programmer,TECH-Cursando,2022",
     "2":"University professor of psychology-Finished,2014-2018",
     "3":"Postgraduate degree international artificial intelligence and Law. Law Faculty,Buenos Aires-First Year,2021",
     "4":"Argentina programa first part-Finished,2021",
-    "5":"Argentina programa second part-Finished,2022",
-    "6":"I want to be a programmer,TECH-Cursando,2022"
+    "5":"Argentina programa second part-Finished,2022"
     },
     "main":{
         "1":"Hi,",
         "2":"i'm Ezequiel.",
-        "3":"Blockchain and Full Stack Developer ",
+        "3":"Full Stack Developer ",
         "4":"Work",
         "5":"Education",
         "6":"Skills",
@@ -20,9 +19,9 @@
        "skill":{
            "1":"Blockchain",
            "2":"BLOCKCHAIN WEBSITE-MOBILE",
-           "3":"web3.js, ethers.js etc.",
+           "3":"web3.js",
            "4":"Contratos inteligentes",
-           "5":"Solidity, Vyper and Python.",
+           "5":"Solidity and Python.",
            "6":"infraestructura de Blockchain",
            "8":"Rust.",
            "10":"Desarrollo Web",
