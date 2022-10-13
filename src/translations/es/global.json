@@ -1,16 +1,15 @@
 {
     "aboutpage":{
-        "1":"Tecnicatura Universitaria en Inteligencia Artificial-Cursando 1°año",
+        "1":"Yo quiero programar,TECH-Cursando,2022",
         "2":"Profesor Universitario en Psicologia-Finalizado,2018",
         "3":"Posgrado Internacional Inteligencia Artificial y Derecho. Facultad de Derecho,Buenos Aires-Cursando,2021",
         "4":"Argentina programa 1°parte-Finalizado,2021",
         "5":"Argentina programa 2°parte-Finalizado,2022",
-        "6":"Yo quiero programar,TECH-Cursando,2022"
        },
     "main":{
         "1":"Hola,",
         "2":"soy Ezequiel.",
-        "3":"Desarrollador de Full Stack",
+        "3":"Desarrollador Full Stack",
         "4":"Work",
         "5":"Educación",
         "6":"Habilidades",
@@ -20,16 +19,16 @@
        "skill":{
            "1":"Blockchain",
            "2":"BLOCKCHAIN WEBSITE-MOBILE",
-           "3":"web3.js, ethers.js etc.",
+           "3":"web3.js",
            "4":"Contratos inteligentes",
-           "5":"Solidity, Vyper and Python.",
+           "5":"Solidity and Python.",
            "6":"infraestructura de Blockchain",
            "8":"Rust.",
            "10":"Desarrollo Web",
            "11":"Lenguajes de programación",
            "12":"Html, Css, JavaScript, Python, ",
            "13":"Algoritmos y frameworks",
-           "14":" React, React Native, Node js, Bootstrap",
+           "14":"React, React Native, Node js, Bootstrap",
            "15":"Otros",
            "16":"Handlebars, express js"
           }
